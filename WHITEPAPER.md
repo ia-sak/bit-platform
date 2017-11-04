@@ -13,7 +13,8 @@ Iraida Sak i.a.sak@yandex.ru
 
   - [Annotation](#annotation)
   - [Introduction](#introduction))
-  
+  - [Purpose](#purpose)
+
   - [Annexes](#annexes)
     - [Links](#links)
 
@@ -24,6 +25,10 @@ Iraida Sak i.a.sak@yandex.ru
 ### Introduction ###############################################################
 
 
+
+### Purpose ####################################################################
+
+This section in a separate file. For more details, see the [PURPOSE.md](PURPOSE.md "PURPOSE.md").
 
 ### Annexes ####################################################################
 

@@ -11,6 +11,7 @@ The project "Platform the Blockchain for the Internet of Things" is designed to 
 More detailed information about the Project you can find out from the following documents: 
 
   - [Whitepaper](WHITEPAPER.md)
+    - [Purpose](PURPOSE.md)
 
 --------------------------------------------------------------------------------
 
