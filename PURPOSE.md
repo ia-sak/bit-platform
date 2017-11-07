@@ -1,6 +1,6 @@
 # BIT Platform #################################################################
 
-** Platform the Blockchain for the Internet of Things **
+**Platform the Blockchain for the Internet of Things**
 
 Alexander Ivannikov a.n.ivannikov@yandex.ru  
 Iraida Sak i.a.sak@yandex.ru  
@@ -15,8 +15,8 @@ The main purpose of the project is the creation of a new decentralized secure pl
 
 *A devices Internet of Things connected to the BIT-platform of things will allow you to receive reliable data about the surrounding space and perform any actions related to the outside world. Under the devices of the Internet of things you can understand any device that can be connected to the network. For example, robots, "smart" technology, control and automation tools, mobile devices, etc.*
 
-In the BIT platform, we want to implement the following components:
-  - [ ] Internal fast and easy crypto currency to maintenance the work of the platform-BIT:
+In the BIT platform, we want to implement the following components:  
+  - [ ] Internal fast and easy crypto currency to maintenance the work of the platform-BIT:
     - [ ] Unlimited block;
     - [ ] Adaptive time of creation block, which will depend on network parameters; 
     - [ ] Adaptive transaction fee, which will depend on network utilization, including zero transaction fee for micropayments*.  *Some minimum number for a certain period of time; 
