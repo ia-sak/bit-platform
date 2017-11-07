@@ -1,6 +1,6 @@
 # BIT Platform #################################################################
 
-** Platform the Blockchain for the Internet of Things **
+**Platform the Blockchain for the Internet of Things**
 
 Alexander Ivannikov a.n.ivannikov@yandex.ru  
 Iraida Sak i.a.sak@yandex.ru  
@@ -12,8 +12,7 @@ Iraida Sak i.a.sak@yandex.ru
 ### Table of Contents ##########################################################
 
   - [Annotation](#annotation)
-  - [Introduction](#introduction))
-  - [Purpose](#purpose)
+  - [Introduction](#introduction)
 
   - [Annexes](#annexes)
     - [Links](#links)
@@ -25,10 +24,6 @@ Iraida Sak i.a.sak@yandex.ru
 ### Introduction ###############################################################
 
 
-
-### Purpose ####################################################################
-
-This section in a separate file. For more details, see the [PURPOSE.md](PURPOSE.md "PURPOSE.md").
 
 ### Annexes ####################################################################
 
