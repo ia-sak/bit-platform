@@ -21,7 +21,7 @@ In the BIT platform, we plan to implement the following components:
   - [ ] Internal fast and easy crypto currency to maintenance the work of the BIT-platform:
     - [ ] Unlimited block;
     - [ ] Adaptive time of creation block, which will depend on network parameters;
-    - [ ] Adaptive transaction fee, which will depend on network utilization, including zero transaction fee for micropayments - some minimum number for a certain period of time;
+    - [ ] Adaptive transaction fee, which will depend on network utilization, including zero transaction fee for micropayments - minimum amount for a certain period of time;
     - [ ] Recalculation of the complexity after each block;
     - [ ] The introduction of a new block type is an Actual block that will be periodically generated and exclude non-actual data at the time of block formation. For synchronization with the network it will be enough to download all the blocks starting from the last Actual block. Example. Since the last Actual block, 1000 transactions have been made at the time of formation of the new Actual block at a specific address. In the new Actual block, this address and current balance will be recorded, if the address balance is 0, then this address will not be written to the new Actual block;
     - [ ] Private addresses and transactions (Zcash or other protocol);
